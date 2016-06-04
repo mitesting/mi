@@ -1,0 +1,392 @@
+id,country_id,name,iso_code
+1,250,Ain,01
+2,250,Aisne,02
+3,250,Allier,03
+4,250,Alpes-de-Haute-Provence,04
+5,250,Hautes-Alpes,05
+6,250,Alpes-Maritimes,06
+7,250,Ardèche,07
+8,250,Ardennes,08
+9,250,Ariège,09
+10,250,Aube,10
+11,250,Aude,11
+12,250,Aveyron,12
+13,250,Bouches-du-Rhône,13
+14,250,Calvados,14
+15,250,Cantal,15
+16,250,Charente,16
+17,250,Charente-Maritime,17
+18,250,Cher,18
+19,250,Corrèze,19
+20,250,Côte-d'Or,21
+21,250,Côtes-d'Armor,22
+22,250,Creuse,23
+23,250,Dordogne,24
+24,250,Doubs,25
+25,250,Drôme,26
+26,250,Eure,27
+27,250,Eure-et-Loir,28
+28,250,Finistère,29
+29,250,Corse-du-Sud,2a
+30,250,Haute-Corse,2b
+31,250,Gard,30
+32,250,Haute-Garonne,31
+33,250,Gers,32
+34,250,Gironde,33
+35,250,Hérault,34
+36,250,Ille-et-Vilaine,35
+37,250,Indre,36
+38,250,Indre-et-Loire,37
+39,250,Isère,38
+40,250,Jura,39
+41,250,Landes,40
+42,250,Loir-et-Cher,41
+43,250,Loire,42
+44,250,Haute-Loire,43
+45,250,Loire-Atlantique,44
+46,250,Loiret,45
+47,250,Lot,46
+48,250,Lot-et-Garonne,47
+49,250,Lozère,48
+50,250,Maine-et-Loire,49
+51,250,Manche,50
+52,250,Marne,51
+53,250,Haute-Marne,52
+54,250,Mayenne,53
+55,250,Meurthe-et-Moselle,54
+56,250,Meuse,55
+57,250,Morbihan,56
+58,250,Moselle,57
+59,250,Nièvre,58
+60,250,Nord,59
+61,250,Oise,60
+62,250,Orne,61
+63,250,Pas-de-Calais,62
+64,250,Puy-de-Dôme,63
+65,250,Pyrénées-Atlantiques,64
+66,250,Hautes-Pyrénées,65
+67,250,Pyrénées-Orientales,66
+68,250,Bas-Rhin,67
+69,250,Haut-Rhin,68
+70,250,Rhône,69
+71,250,Haute-Saône,70
+72,250,Saône-et-Loire,71
+73,250,Sarthe,72
+74,250,Savoie,73
+75,250,Haute-Savoie,74
+76,250,Paris,75
+77,250,Seine-Maritime,76
+78,250,Seine-et-Marne,77
+79,250,Yvelines,78
+80,250,Deux-Sèvres,79
+81,250,Somme,80
+82,250,Tarn,81
+83,250,Tarn-et-Garonne,82
+84,250,Var,83
+85,250,Vaucluse,84
+86,250,Vendée,85
+87,250,Vienne,86
+88,250,Haute-Vienne,87
+89,250,Vosges,88
+90,250,Yonne,89
+91,250,Territoire de Belfort,90
+92,250,Essonne,91
+93,250,Hauts-de-Seine,92
+94,250,Seine-Saint-Denis,93
+95,250,Val-de-Marne,94
+96,250,Val-d'Oise,95
+97,276,Berlin,be
+98,276,Brandenburg,br
+99,276,Baden-Württemberg,bw
+100,276,Bayern,by
+101,276,Bremen,hb
+102,276,Hessen,he
+103,276,Hamburg,hh
+104,276,Mecklenburg-Vorpommern,mv
+105,276,Niedersachsen,ni
+106,276,Nordrhein-Westfalen,nw
+107,276,Rheinland-Pfalz,rp
+108,276,Schleswig-Holstein,sh
+109,276,Saarland,sl
+110,276,Sachsen,sn
+111,276,Sachsen-Anhalt,st
+112,276,Thüringen,th
+113,826,Aberdeenshire,abd
+114,826,Aberdeen City,abe
+115,826,Argyll and Bute,agb
+116,826,Isle of Anglesey,agy
+117,826,Angus,ans
+118,826,Antrim,ant
+119,826,Ards,ard
+120,826,Armagh,arm
+121,826,Bath and North East Somerset,bas
+122,826,Blackburn with Darwen,bbd
+123,826,Bedfordshire,bdf
+124,826,Barking and Dagenham,bdg
+125,826,Brent,ben
+126,826,Bexley,bex
+127,826,Belfast,bfs
+128,826,Bridgend,bge
+129,826,Blaenau Gwent,bgw
+130,826,Birmingham,bir
+131,826,Buckinghamshire,bkm
+132,826,Ballymena,bla
+133,826,Ballymoney,bly
+134,826,Bournemouth,bmh
+135,826,Banbridge,bnb
+136,826,Barnet,bne
+137,826,Brighton and Hove,bnh
+138,826,Barnsley,bns
+139,826,Bolton,bol
+140,826,Blackpool,bpl
+141,826,Bracknell Forest,brc
+142,826,Bradford,brd
+143,826,Bromley,bry
+144,826,"Bristol, City of",bst
+145,826,Bury,bur
+146,826,Cambridgeshire,cam
+147,826,Caerphilly,cay
+148,826,Ceredigion,cgn
+149,826,Craigavon,cgv
+150,826,Cheshire,chs
+151,826,Carrickfergus,ckf
+152,826,Cookstown,ckt
+153,826,Calderdale,cld
+154,826,Clackmannanshire,clk
+155,826,Coleraine,clr
+156,826,Cumbria,cma
+157,826,Camden,cmd
+158,826,Carmarthenshire,cmn
+159,826,Cornwall,con
+160,826,Coventry,cov
+161,826,Cardiff,crf
+162,826,Croydon,cry
+163,826,Castlereagh,csr
+164,826,Conwy,cwy
+165,826,Darlington,dal
+166,826,Derbyshire,dby
+167,826,Denbighshire,den
+168,826,Derby,der
+169,826,Devon,dev
+170,826,Dungannon,dgn
+171,826,Dumfries and Galloway,dgy
+172,826,Doncaster,dnc
+173,826,Dundee City,dnd
+174,826,Dorset,dor
+175,826,Down,dow
+176,826,Derry,dry
+177,826,Dudley,dud
+178,826,Durham,dur
+179,826,Devon,dvv
+180,826,Ealing,eal
+181,826,East Ayrshire,eay
+182,826,"Edinburgh, City of",edh
+183,826,East Dunbartonshire,edu
+184,826,East Lothian,eln
+185,826,Eilean Siar,els
+186,826,Enfield,enf
+187,826,East Renfrewshire,erw
+188,826,East Riding of Yorkshire,ery
+189,826,Essex,ess
+190,826,East Sussex,esx
+191,826,Falkirk,fal
+192,826,Fermanagh,fer
+193,826,Fife,fif
+194,826,Flintshire,fln
+195,826,Gateshead,gat
+196,826,Glasgow City,glg
+197,826,Gloucestershire,gls
+198,826,Greenwich,gre
+199,826,Gwynedd,gwn
+200,826,Halton,hal
+201,826,Hampshire,ham
+202,826,Havering,hav
+203,826,Hackney,hck
+204,826,"Herefordshire, County of",hef
+205,826,Hillingdon,hil
+206,826,Highland,hld
+207,826,Hammersmith and Fulham,hmf
+208,826,Hounslow,hns
+209,826,Hartlepool,hpl
+210,826,Hertfordshire,hrt
+211,826,Harrow,hrw
+212,826,Haringey,hry
+213,826,Isles of Scilly,ios
+214,826,Isle of Wight,iow
+215,826,Islington,isl
+216,826,Inverclyde,ivc
+217,826,Kensington and Chelsea,kec
+218,826,Kent,ken
+219,826,"Kingston upon Hull, City of",khl
+220,826,Kirklees,kir
+221,826,Kingston upon Thames,ktt
+222,826,Knowsley,kwl
+223,826,Lancashire,lan
+224,826,Lambeth,lbh
+225,826,Leicester,lce
+226,826,Leeds,lds
+227,826,Leicestershire,lec
+228,826,Lewisham,lew
+229,826,Lincolnshire,lin
+230,826,Liverpool,liv
+231,826,Limavady,lmv
+232,826,"London, City of",lnd
+233,826,Larne,lrn
+234,826,Lisburn,lsb
+235,826,Luton,lut
+236,826,Manchester,man
+237,826,Middlesbrough,mdb
+238,826,Medway,mdw
+239,826,Magherafelt,mft
+240,826,Milton Keynes,mik
+241,826,Midlothian,mln
+242,826,Monmouthshire,mon
+243,826,Merton,mrt
+244,826,Moray,mry
+245,826,Merthyr Tydfil,mty
+246,826,Moyle,myl
+247,826,North Ayrshire,nay
+248,826,Northumberland,nbl
+249,826,North Down,ndn
+250,826,North East Lincolnshire,nel
+251,826,Newcastle upon Tyne,net
+252,826,Norfolk,nfk
+253,826,Nottingham,ngm
+254,826,North Lanarkshire,nlk
+255,826,North Lincolnshire,nln
+256,826,North Somerset,nsm
+257,826,Newtownabbey,nta
+258,826,Northamptonshire,nth
+259,826,Neath Port Talbot,ntl
+260,826,Nottinghamshire,ntt
+261,826,North Tyneside,nty
+262,826,Newham,nwm
+263,826,Newport,nwp
+264,826,North Yorkshire,nyk
+265,826,Newry and Mourne,nym
+266,826,Oldham,old
+267,826,Omagh,omh
+268,826,Orkney Islands,ork
+269,826,Oxfordshire,oxf
+270,826,Pembrokeshire,pem
+271,826,Perth and Kinross,pkn
+272,826,Plymouth,ply
+273,826,Poole,pol
+274,826,Portsmouth,por
+275,826,Powys,pow
+276,826,Peterborough,pte
+277,826,Redcar and Cleveland,rcc
+278,826,Rochdale,rch
+279,826,"Rhondda, Cynon, Taff",rct
+280,826,Redbridge,rdb
+281,826,Reading,rdg
+282,826,Renfrewshire,rfw
+283,826,Richmond upon Thames,ric
+284,826,Rotherham,rot
+285,826,Rutland,rut
+286,826,Sandwell,saw
+287,826,South Ayrshire,say
+288,826,"Scottish Borders, The",scb
+289,826,Suffolk,sfk
+290,826,Sefton,sft
+291,826,South Gloucestershire,sgc
+292,826,Sheffield,shf
+293,826,St. Helens,shn
+294,826,Shropshire,shr
+295,826,Stockport,skp
+296,826,Salford,slf
+297,826,Slough,slg
+298,826,South Lanarkshire,slk
+299,826,Sunderland,snd
+300,826,Solihull,sol
+301,826,Somerset,som
+302,826,Southend-on-Sea,sos
+303,826,Surrey,sry
+304,826,Strabane,stb
+305,826,Stoke-on-Trent,ste
+306,826,Stirling,stg
+307,826,Southampton,sth
+308,826,Sutton,stn
+309,826,Staffordshire,sts
+310,826,Stockton-on-Tees,stt
+311,826,South Tyneside,sty
+312,826,Swansea,swa
+313,826,Swindon,swd
+314,826,Southwark,swk
+315,826,Tameside,tam
+316,826,Telford and Wrekin,tfw
+317,826,Thurrock,thr
+318,826,Torbay,tob
+319,826,Torfaen,tof
+320,826,Trafford,trf
+321,826,Tower Hamlets,twh
+322,826,"Vale of Glamorgan, The",vgl
+323,826,Warwickshire,war
+324,826,West Berkshire,wbk
+325,826,West Dunbartonshire,wdu
+326,826,Waltham Forest,wft
+327,826,Wigan,wgn
+328,826,Wiltshire,wil
+329,826,Wakefield,wkf
+330,826,Walsall,wll
+331,826,West Lothian,wln
+332,826,Wolverhampton,wlv
+333,826,Wandsworth,wnd
+334,826,Windsor and Maidenhead,wnm
+335,826,Wokingham,wok
+336,826,Worcestershire,wor
+337,826,Wirral,wrl
+338,826,Warrington,wrt
+339,826,Wrexham,wrx
+340,826,Westminster,wsm
+341,826,West Sussex,wsx
+342,826,York,yor
+343,826,Shetland Islands,zet
+344,372,Cork,c
+345,372,Clare,ce
+346,372,Cavan,cn
+347,372,Carlow,cw
+348,372,Dublin,d
+349,372,Donegal,dl
+350,372,Galway,g
+351,372,Kildare,ke
+352,372,Kilkenny,kk
+353,372,Kerry,ky
+354,372,Longford,ld
+355,372,Louth,lh
+356,372,Limerick,lk
+357,372,Leitrim,lm
+358,372,Laois,ls
+359,372,Meath,mh
+360,372,Monaghan,mn
+361,372,Mayo,mo
+362,372,Offaly,oy
+363,372,Roscommon,rn
+364,372,Sligo,so
+365,372,Tipperary,ta
+366,372,Waterford,wd
+367,372,Westmeath,wh
+368,372,Wicklow,ww
+369,372,Wexford,wx
+370,250,Alsace,a
+371,250,Aquitaine,b
+372,250,Auvergne,c
+373,250,Lower Normandie,p
+374,250,Burgundy,d
+375,250,Brittany,e
+376,250,Centre,f
+377,250,Champagne-Ardenne,g
+378,250,Corsica,h
+379,250,Franche-Comte,i
+380,250,Upper Normandy,q
+381,250,Ile-de-France,j
+382,250,Languedoc-Roussillon,k
+383,250,Limousin,l
+384,250,Lorraine,m
+385,250,Midi-Pyrenees,n
+386,250,Nord-Pas-de-Calais,o
+387,250,Pays de la Loire,r
+388,250,Picardy,s
+389,250,Poitou-Charentes,t
+390,250,Provence-Alpes-Cote d'Azur,u
+391,250,Rhone-Alpes,v
